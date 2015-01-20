@@ -1,0 +1,34 @@
+<?php 
+/**
+ * FOOTER VEDLIKEHOLD INNHOLDER INFORMASJON OM OPPGAVEN 
+ * OG HVE GRUPPEN SOM HAR JOBBET MED GRUPPEN HAR FOR NAVN
+ * PHP version 5
+ *
+ * LICENSE: This source file is subject to version 3.01 of the PHP license
+ * that is available through the world-wide-web at the following URI:
+ * http://www.php.net/license/3_01.txt.  If you did not receive a copy of
+ * the PHP License and are unable to obtain it through the web, please
+ * send a note to license@php.net so we can mail you a copy immediately.
+ *
+ * @author		Original Author <andersborglarsen@gmail.com>
+ * @author		Original Author <haavard@ringshaug.net>
+ * @author		Original Author <oyvind.gautestad@gmail.com>
+ * @author		Original Author <linda.fermann@gmail.com>
+ * @copyright 	2013-2018
+ * @license		http://www.php.net/license/3_01.txt
+ * @link		http://student.hive.no/web10007/1
+ *
+ */
+
+?>
+	</div> <!--HER AVSLUTTES HOVED DELEN AV INNHOLDET-->
+
+		<footer class="clearfloat">
+			<p class="footer_headline">&copy; HALØ | Haavard M. Olsen &amp Anders B. Larsen &amp Linda Fermann &amp Øyvind Gautestad  | <?php echo date('Y') ?></p> 
+			<p class="footer_info">WEB1000 Hjemmeeksamen vår 2013 | Del 2: Vedlikehold </p>  
+
+		</footer>
+
+	</div> <!--HER AVSLUTTES KONTEINEREN FOR INNHOLDET--> 
+</body>
+</html>

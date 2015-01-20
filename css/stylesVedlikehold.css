@@ -1,0 +1,112 @@
+@CHARSET "UTF-8";
+
+/*************************************
+GLOBAL
+*************************************/
+
+
+
+/*************************************
+HEADER
+*************************************/
+
+
+
+/*************************************
+Navigation
+*************************************/
+#view_user
+{
+	height:40px;
+	background-color: #EB7928;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EB7928), to(#EB7928));
+	border: 1px solid black;
+	border-bottom: 1px solid black;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	color: white;
+	font-weight: bold;
+	text-shadow: 0 -1px 0 #fffff;
+}
+
+/*************************************
+SEARCH
+*************************************/
+
+
+
+/*************************************
+CONTENT
+*************************************/
+
+/*************************************
+FORMS
+*************************************/
+
+.reg_user_form
+{
+	margin:20px;
+	Padding:10px;
+	width:80%;
+}
+
+#regformheader
+{
+	Margin:4px;
+	padding:4px;
+}
+
+
+/* === Button Style === */
+input
+{
+	margin:6px;
+	padding:6px;
+	height:16px;
+}
+input.submit {
+	height:40px;
+	background-color: #EB7928;
+	background: -webkit-gradient(linear, left top, left bottom, from(#EB7928), to(#EB7928));
+	border: 1px solid black;
+	border-bottom: 1px solid black;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	color: white;
+	font-weight: bold;
+	padding: 6px 20px;
+	text-align: center;
+	text-shadow: 0 -1px 0 #fffff;
+}
+input.submit:hover {
+	opacity:.85;
+	cursor: pointer; 
+}
+input.submit:active {
+	border: 1px solid #20911e;
+	box-shadow: 0 0 10px 5px #DB1A35 inset; 
+	-webkit-box-shadow:0 0 10px 5px #DB1A35 inset ;
+	-moz-box-shadow: 0 0 10px 5px #DB1A35 inset;
+	-ms-box-shadow: 0 0 10px 5px #DB1A35 inset;
+	-o-box-shadow: 0 0 10px 5px #DB1A35 inset;
+	
+}
+
+
+
+
+
+
+
+/*************************************
+FOOTER
+*************************************/
+
+
+
